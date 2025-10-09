@@ -5,6 +5,29 @@
     "@mui/icons-material": "^7.3.2",
     "@mui/material": "^7.3.2",
     "date-fns": "^4.1.0",
+    "mongoose": "^8.19.1",
     "socket.io-client": "^4.8.1"
-  }
+  },
+  "name": "agent-wallboard-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaTemtp/agent-wallboard-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaTemtp/agent-wallboard-system/issues"
+  },
+  "homepage": "https://github.com/ChaTemtp/agent-wallboard-system#readme",
+  "description": ""
 }
